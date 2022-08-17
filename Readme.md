@@ -41,7 +41,7 @@ Base, Bug Fixes, Modules | Modifiying  as   public | Helping to me | Helping to 
 
 ## Thanks To
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
-* [`Mr.White Shadow`](https://github.com/whiteshadowofficial)
+* [`Mr.White Shadow`](https://github.com/nimsarar/HISL-WHATSAPP-BOT-MD/blob/master/app.json)
 * [`Black Panther`](github.com/blackpantherofc)
 * [`MrChaby`](github.com/MrChaby)
 
@@ -54,7 +54,7 @@ Base, Bug Fixes, Modules | Modifiying  as   public | Helping to me | Helping to 
 > Click WA logo to Join Support Group 👇
 <br>
 
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/I1uZccqxoqx5sOPrYHsbyc)
+  [![join](https://hb4alllink.herokuapp.com/1a8d9/file.jpg)](https://chat.whatsapp.com/KGGILe5XWCc5DZp84NpxbI)
 
   <div align="center">
 
@@ -65,7 +65,7 @@ Base, Bug Fixes, Modules | Modifiying  as   public | Helping to me | Helping to 
 >`WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
 .
 
-> The project was created by Mr.White Shadow
+> The project was created by Nimsara-Md-sl-bot
 
 ____________________________________________
 
