@@ -1,7 +1,7 @@
 {
-  "name": "HISL-OFFICIAL-BOT-MD",
+  "name": "NIMSARA_SL_MD_BOT",
   "version": "4.0.0",
-  "description": "Automated whatsapp md bot created using nodejs",
+  "description": "Automated Nimsara special bot welcome ",
   "main": "hackers-in-sri-lanka.js",
   "type": "commonjs",
   "scripts": {
@@ -17,7 +17,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "Mr.White Shadow",
+  "author": "NIMSARA.MD",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.1.0",
